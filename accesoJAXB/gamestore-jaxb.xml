@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:tiendaJuegos xmlns:ns2="com.company.xml.accesojaxb.gradle.model">
+    <gamesList>
+        <game>
+            <title>Grand Theft Auto 6</title>
+            <publisher>Rockstar</publisher>
+        </game>
+        <game>
+            <title>Fifa</title>
+            <publisher>EA Sports</publisher>
+        </game>
+        <game>
+            <title>Call Of Duty - Modern Warfare</title>
+            <publisher>Activision</publisher>
+        </game>
+    </gamesList>
+    <location>CC Las Arenas</location>
+    <name>Game</name>
+</ns2:tiendaJuegos>
